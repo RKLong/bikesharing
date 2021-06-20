@@ -27,16 +27,16 @@ From Mondays to Fridays, the hours between 7AM to 9AM as well as 5PM to 7PM have
 
 * Number of Trips by Gender (Weekday per Hour)
 ![V4](resources/V4_TripsbyGender_Weekend_Hr.jpeg)
-This visualization is consistent with the Number of Trips by Weekday per Hour visualization while at the same time reflecting the trips by gender. However what is noticable is for the 'unknown' there are more bikeshare trips made during Saturdays and SUndays than the rest of the week.
+This visualization is consistent with the Number of Trips by Weekday per Hour visualization while at the same time reflecting the trips by gender. However what is noticable is for the 'unknowns' there are more bikeshare trips made by them on Saturdays and SUndays than the rest of the week.
 
 * User Trips by Gender by Weekday
 ![V5](resources/V5_Usertype_by_Gender.png)
 Thursdays and Fridays have the highest subscriber trips, while Wednesdays and Sundays are the slowest. What was interesting was that females have Saturday-Tuesday-Monday, in terms of highest to lowest bikeshare use-in order after Friday, while their male counterparts had Tuesday-Monday-Saturday.
-This is the order by which non-subscribers'(which makes up about 19%) bikeshare trips range from highest to lowest number of trips per weekday: Saturday, Sunday, Friday, Thursday, Monday, Tuesday and Wednesday. 
+This is the order by which non-subscribers'(which makes up about 19%) bikeshare trips arranged range from highest to lowest number per weekday: Saturday, Sunday, Friday, Thursday, Monday, Tuesday and Wednesday. 
 
 * Checkout Times for Users
 ![V6](resources/V6_Tripduration.png)
-More than 90% of the trips more than an hour or sixty minutes. 1,815,032 or almost 77% of the trips last 20 minutes or less. 1,147,952 or about 49% of trips last 10 minutes or less and The highest number of trips in terms of checkout time was for 5 minutes at 146,672.
+More than 90% of the trips last less than an hour or sixty minutes. 1,815,032 or almost 77% of the trips last 20 minutes or less. 1,147,952 or about 49% of trips last 10 minutes or less and The highest number of trips in terms of checkout time was for 5 minutes at 146,672.
 
 * Checkout Times by Gender
 ![V7](resources/V7_Tripduration_Gender.jpeg)
