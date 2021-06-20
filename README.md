@@ -27,11 +27,11 @@ From Mondays to Fridays, the hours between 7AM to 9AM as well as 5PM to 7PM have
 
 * Number of Trips by Gender (Weekday per Hour)
 ![V4](resources/V4_TripsbyGender_Weekend_Hr.jpeg)
-This visualization is consistent with the Number of Trips by Weekday per Hour visualization while at the same time reflecting the trips by gender. However what is noticable is for the 'unknowns' there are more bikeshare trips made by them on Saturdays and SUndays than the rest of the week.
+This visualization is consistent with the Number of Trips by Weekday per Hour visualization while at the same time reflecting the trips by gender. However what is noticable is for the 'unknown' there are more bikeshare trips made by them on Saturdays and SUndays than the rest of the week.
 
 * User Trips by Gender by Weekday
 ![V5](resources/V5_Usertype_by_Gender.png)
-Thursdays and Fridays have the highest subscriber trips, while Wednesdays and Sundays are the slowest. What was interesting was that females have Saturday-Tuesday-Monday, in terms of highest to lowest bikeshare use-in order after Friday, while their male counterparts had Tuesday-Monday-Saturday.
+Thursdays and Fridays have the highest subscriber trips, while Wednesdays and Sundays are the lowest. What was interesting was that females have Saturday-Tuesday-Monday, in terms of highest to lowest bikeshare use-in order after Friday, while their male counterparts had Tuesday-Monday-Saturday.
 This is the order by which non-subscribers'(which makes up about 19%) bikeshare trips arranged range from highest to lowest number per weekday: Saturday, Sunday, Friday, Thursday, Monday, Tuesday and Wednesday. 
 
 * Checkout Times for Users
