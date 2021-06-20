@@ -19,8 +19,9 @@ There were 2,344,224 bike-share trips for the month of August in NYC.
 
 * Number of Trips by Weekday per Hour
 ![V2](resources/V2_Trips_by_Wkday_Hr.png)
-From Mondays to Fridays, the hours between 7AM to 9AM as well as 5PM to 7PM have the most number of trips, with Thursday having the highest numbers in these two given time frames and Wednesdays between 5PM to 7PM have the least
-On Saturdays and Sundays, between 10 AM to 4PM there are more trips compared to the rest of the week. Of the two days, there are more bike-share trips on Saturday, specifically around noon.
+From Mondays to Fridays, the hours between 7AM to 9AM as well as 5PM to 7PM have the most number of trips, with Thursday having the highest numbers in these two given time frames and Wednesdays between 5PM to 7PM have the least.
+
+On Saturdays and Sundays, between 10 AM to 4PM, there are more trips compared to the rest of the days of the week. Of the two days, there are more bike-share trips on Saturday, specifically around noon.
 
 * Gender Breakdown 
 ![V3](resources/V3_Gender_Breakdown.png)
