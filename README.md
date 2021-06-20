@@ -43,8 +43,7 @@ More than 90% of the trips last less than an hour or sixty minutes. 1,815,032 or
 The tripduration by males and females more or less follow the same increasing/decreasing trend for each minute, specifically in the first hour. 
 The gender labeled as 'unknown' however does not have a noticeable 'peak' compared to their male and female counterparts. The tripduration by this group ranges somewhere between 6,000 to 7,000 within the 6 minute to 26 minute time frams.
 
-* The Complete Presentation
-The complete presentation can be accessed by clicking the link.
+* The complete presentation can be accessed by clicking the link.
 [click_me!](https://public.tableau.com/app/profile/richelle.long/viz/RKLong_NYCBikeshare/NYCBikeshare-UsersandTripdurationfortheMonthofAugust)
 
 # Summary
