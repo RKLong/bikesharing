@@ -45,7 +45,7 @@ The gender labeled as 'unknown' however does not have a noticeable 'peak' compar
 
 * The Complete Presentation
 The complete presentation can be accessed by clicking the link.
-[link to dashboard](https://public.tableau.com/app/profile/richelle.long/viz/RKLong_NYCBikeshare/NYCBikeshare-UsersandTripdurationfortheMonthofAugust)
+[click_me!](https://public.tableau.com/app/profile/richelle.long/viz/RKLong_NYCBikeshare/NYCBikeshare-UsersandTripdurationfortheMonthofAugust)
 
 # Summary
 
