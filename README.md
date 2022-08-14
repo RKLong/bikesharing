@@ -1,5 +1,5 @@
 # Bikesharing
-UCB Challenge: From Pandas, create a set of visualizations for bike trip analysis using Tableau.
+From Pandas, create a set of visualizations for bike trip analysis using Tableau.
 
 # Overview of the Statistical Analysis
 The first task we were given was to convert one of the columns from an integer to a datatype, using Pandas. With the revised data, we would create a set of visualizations that would show the length of time that bikes are checked out for all riders and genders. The visualizations made should also show the number of bike trips for all riders and genders  for each hour of the day of the week as well as the number of bike trips for each type of user and gender for each day of thhe week. All the visulaizations are to be used for the final presentation and analysis to pitch to investors.
